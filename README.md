@@ -12,7 +12,7 @@ Sevilla, Spain | [LinkedIn](https://www.linkedin.com/in/cristian-carretero-ferna
 
 ## Core Skills & Stack
 
-- **Applied Machine Learning:** XGBoost, Survival Analysis, Unsupervised Clustering (K-Medoids, PCA), Digital Twins.
+- **Applied Machine Learning:** XGBoost, Unsupervised Clustering (K-Medoids, PCA).
 - **Data Engineering:** Modular pipelines, large-scale temporal telemetry processing (28M+ points), Parquet, disk-to-disk streaming.
 - **Explainable AI (XAI):** SHAP values, surrogate trees, model interpretability.
 - **Tech Stack:** Python, Pandas, Scikit-learn, XGBoost, PyArrow, Streamlit.
@@ -24,8 +24,7 @@ Sevilla, Spain | [LinkedIn](https://www.linkedin.com/in/cristian-carretero-ferna
 ### Perovskite Stability ML Pipeline — Data Architecture & Predictive Modeling
 End-to-end ML pipeline for outdoor perovskite solar cell stability analysis, built on data shared by the ParaSol platform (OSS Lab, University of Zaragoza).
 - Processed and filtered 28M+ high-frequency telemetry points through a 9-stage modular architecture using disk-to-disk streaming.
-- Built a Dual Digital Twin for early anomaly detection and a hybrid kinematic engine for RUL forecasting (MAE 4.8 days).
-- Developed a public Streamlit dashboard integrating SHAP values to decouple environmental effects from permanent material fatigue.
+- Applied XGBoost and Explainable AI (SHAP) to model degradation and interpret feature attributions.
 - [View repository](https://github.com/cristian-carretero/perovskite-stability-ml)
 
 ### Bachelor's Thesis — Explainable Machine Learning for Outdoor Perovskite Solar Cell Degradation
@@ -41,7 +40,7 @@ Research project focused on predictive modeling for physical systems reliability
 **Machine Learning Intern** — Instituto de Ciencia de Materiales de Sevilla (Mar. 2026 – Jun. 2026)
 - **Data Architecture:** Engineered scalable data pipelines to automatically process and filter 28M+ high-frequency telemetry records.
 - **Machine Learning:** Applied unsupervised clustering (K-Medoids, PCA) and predictive modeling (XGBoost) to map hardware anomalies and track degradation evolution.
-- **Explainable AI (XAI):** Integrated SHAP values to diagnose root causes of failure, successfully decoupling reversible environmental effects from permanent structural fatigue to assess commercial viability.
+- **Explainable AI (XAI):** Integrated SHAP values to diagnose root causes of failure, successfully decoupling reversible environmental effects from permanent structural fatigue.
 
 ---
 
