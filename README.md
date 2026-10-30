@@ -2,7 +2,7 @@
 
 Sevilla, Spain | [LinkedIn](https://www.linkedin.com/in/cristian-carretero-fernandez) | MSc Data Science Student @ UOC
 
-Graduate in **Physicist and Materials Engineering** currently pursuing an **MSc in Data Science**. I combine a strong quantitative foundation with applied Machine Learning to build data pipelines, process large-scale temporal telemetry, and apply Explainable AI (XAI) to complex analytical problems.
+Graduate in **Physics and Materials Engineering** currently pursuing an **MSc in Data Science**. I combine a strong quantitative foundation with applied Machine Learning to build data pipelines, process large-scale temporal telemetry, and apply Explainable AI (XAI) to complex analytical problems.
 
 **Current Focus:**
 - **MSc in Data Science (UOC):** Building a solid foundation in statistical modeling, database systems (SQL), and data analysis workflows.
