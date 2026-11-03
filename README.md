@@ -46,7 +46,7 @@ Academic research project (Grade: Outstanding / Sobresaliente) focused on predic
 
 ## Education & Background
 
-- **M.Sc. in Data Science** — Universitat Oberta de Catalunya (Sept. 2026 – Feb. 2028)
-- **Double Bachelor's Degree, Physics and Materials Engineering** — Universidad de Sevilla (2021 – 2026)
-- **Machine Learning & Data Science Track** — Kaggle (Oct. 2025)
-- **Languages:** Spanish (Native), English (B2 First certified, C1 Advanced in progress).
+- **M.Sc. in Data Science** - Universitat Oberta de Catalunya (Sept. 2026 – Feb. 2028)
+- **Double Bachelor's Degree, Physics and Materials Engineering** - Universidad de Sevilla (2021 – 2026)
+  - **Honors:** Rank #1 in Graduating Class ("San Alberto Magno" Prize for the Best Academic Record 2025/26), 4 Honors Distinctions (*Matrículas de Honor*), and Outstanding (*Sobresaliente*) in Bachelor's Thesis.
+- **Languages:** Spanish (Native), English (B2 First certified, preparing for C1 Advanced).
